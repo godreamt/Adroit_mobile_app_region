@@ -49,3 +49,8 @@ export class AddHeaderInterceptor implements HttpInterceptor {
 })
 export class AppModule {}
 
+
+// Adroit_region_key
+// 12345678
+// alias : adroit_region
+// First name and last name : Adroit
